@@ -2,7 +2,7 @@
 
 Here are a few project ideas you can pin on your profile (replace links/titles with your repos):
 
-Tezda Mobile App (E‑commerce) — Immersive shopping with short‑video content, WebRTC calls, chat, and voice notes.
+Tezda (PingTop) Mobile App (E‑commerce) — Immersive shopping with short‑video content, WebRTC calls, chat, and voice notes.
 Flutter · Dart · GraphQL/REST · AWS · WebSockets
 
 Medical Records System — Secure EMR with role‑based access, testing automation (–20% bugs).
@@ -53,10 +53,4 @@ I’m open to freelance/remote opportunities and interesting open‑source work.
 
 🐙 GitHub: https://github.com/basharalbashier
 
-📌 How to use this README
 
-Copy this Markdown into your repo named basharalbashier.
-
-Rename the file to README.md — GitHub will show it on your profile.
-
-Update project links, add images/GIFs, and remove any optional sections you don’t want.
