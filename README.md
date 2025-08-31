@@ -42,17 +42,10 @@ E‑commerce platform (auth, payments, catalogs, UI/pagination).
 
 Teaching & Early Career — English & ICT Teacher; Survey Engineer.
 
-📊 GitHub Stats (optional)
-
-These images update automatically once added to your README. Feel free to comment out or remove sections you don’t want.
-
-
-
-
 
 🤝 Let’s Collaborate
 
-I’m open to freelance/remote opportunities and interesting open‑source work. If you have something cool in Flutter, real‑time systems, or e‑commerce, let’s talk!
+I’m open to freelance/remote opportunities and interesting open‑source work. If you have something cool in Flutter ,Swift and kotlin, real‑time systems, or e‑commerce, let’s talk!
 
 📧 Email: basharalbashier@hotmail.com
 
